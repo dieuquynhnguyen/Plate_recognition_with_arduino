@@ -2,7 +2,7 @@
 ## Introduction
 
 An embedded-system based project for university course to apply what we have learned so far. Using arduino, camera from smartphone and running detection algorithm on laptop.
-This is just a project to get us familiar basic machine learning concept,embedded system and Python language. The features still need a lot improvements.
+This is just a project to get us familiar basic machine learning concept, embedded system and Python language. Some features still need a lot improvements.
 
 ## General info
 
