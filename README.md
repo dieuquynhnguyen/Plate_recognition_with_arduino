@@ -34,5 +34,3 @@ Based on repo: https://github.com/thangnch/MiAI_LP_Detection_SVM and modify for 
 ## Contact
 
 Email: penguins118nk@gmail.com
-
-Facebook: https://www.facebook.com/quynh.nd.75
